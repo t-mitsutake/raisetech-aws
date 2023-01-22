@@ -1,2 +1,2 @@
-# raisetech-aws-lecture02
-レイズテック_第２回目
+# raisetech-aws
+AWS課題
