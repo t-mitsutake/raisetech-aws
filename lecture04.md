@@ -1,11 +1,11 @@
 # 第四回課題
 ### AWS上に新しくVPCを作ってください。
-![image](https://github.com/t-mitsutake/test/blob/main/gazou/VPC_01.png)  
+![image](https://github.com/t-mitsutake/raisetech-aws/blob/main/gazou/VPC_01.png)  
 ### EC2とRDS を構築してください
-![image](https://github.com/t-mitsutake/test/blob/main/gazou/ec2%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B901.png) 
-![image](https://github.com/t-mitsutake/test/blob/main/gazou/rds_01.png)
+![image](https://github.com/t-mitsutake/raisetech-aws/blob/main/gazou/ec2%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B901.png) 
+![image](https://github.com/t-mitsutake/raisetech-aws/blob/main/gazou/rds_01.png)
 ### EC2 から RDS へ接続をし、正常であることを確認して報告してください。
-![image](https://github.com/t-mitsutake/test/blob/main/gazou/rds-02.png)
+![image](https://github.com/t-mitsutake/raisetech-aws/blob/main/gazou/rds-02.png)
 
 ## その他
 
@@ -74,4 +74,4 @@
 
 
 ### 構成図の作成練習
- ![image](https://github.com/t-mitsutake/test/blob/main/gazou/lecture04.png)
+ ![image](https://github.com/t-mitsutake/raisetech-aws/blob/main/gazou/lecture04.png)
